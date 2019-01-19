@@ -1,4 +1,4 @@
-# BobaRunner
+# bobaBoy
 ### The app for congregating orders from nearby boba lovers
 
 ## Git Workflow
