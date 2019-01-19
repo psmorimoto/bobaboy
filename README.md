@@ -15,13 +15,13 @@
 * A menu
 
 ## Example Database Data
-  { id: num,
-    flavor : string,
-    milk: string,
-    icelevel : string,
-    sweetlevel: string,
-    topping1: string,
-    topping2: string,
-    topping3 : string,
+  { id: num, <br />
+    flavor : string,<br />
+    milk: string,<br />
+    icelevel : string,<br />
+    sweetlevel: string,<br />
+    topping1: string,<br />
+    topping2: string,<br />
+    topping3 : string,<br />
     }
     
