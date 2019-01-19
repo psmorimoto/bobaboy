@@ -16,12 +16,15 @@
 
 ## Example Database Data
   { id: num, <br />
-    flavor : string,<br />
-    milk: string,<br />
-    icelevel : string,<br />
-    sweetlevel: string,<br />
-    topping1: string,<br />
-    topping2: string,<br />
-    topping3 : string,<br />
+    Who: String,<br />
+    Tea: String,<br />
+    Milk: String,<br />
+    Ice:String,<br />
+    Sweetness: String,<br />
+    Topping: String,<br />
+    Other Requests: String,<br />
+    Price: String,<br />
     }
+    
+
     
