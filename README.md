@@ -13,3 +13,15 @@
 * To see recent orders (up to 10)
 * To see a picture of the tea or topping
 * A menu
+
+## Example Database Data
+  { id: num,
+    flavor : string,
+    milk: string,
+    icelevel : string,
+    sweetlevel: string,
+    topping1: string,
+    topping2: string,
+    topping3 : string,
+    }
+    
